@@ -1,0 +1,9 @@
+ultralytics
+opencv-python
+numpy
+scikit-learn
+joblib
+pyttsx3
+sounddevice
+SpeechRecognition
+pydub
